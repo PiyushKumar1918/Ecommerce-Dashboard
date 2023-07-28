@@ -7,6 +7,7 @@ function App() {
 <h1>Ecomm-Dashboard</h1>
 <button>Normal Butoon</button>
 <Button>Botstrap Butoon</Button>
+<Button>new button</Button>
     </div>
   );
 }
